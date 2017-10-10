@@ -1,0 +1,5 @@
+names=   brinjal  m  123456@gmail.com   123456789
+         tomato  m  123456@gmail.com   123456789
+         paotato  m  123456@gmail.com   123456789
+         ladies finge  m  123456@gmail.com   123456789
+         rose guard  m  123456@gmail.com   123456789

@@ -1,0 +1,55 @@
+(7/23/2017 7:09:33 AM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: By control id
+********************************************************************
+Error Line ::>>>7
+(7/23/2017 7:15:13 AM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: By control id
+********************************************************************
+Error Line ::>>>7
+(7/23/2017 7:17:25 AM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: By control id
+********************************************************************
+Error Line ::>>>7
+(7/23/2017 7:19:17 AM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: 
+********************************************************************
+Error Line ::>>>7
+(7/23/2017 7:21:27 AM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: 
+********************************************************************
+Error Line ::>>>7
+(7/23/2017 7:25:48 AM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: 
+********************************************************************
+Error Line ::>>>7
+(7/24/2017 10:52:25 PM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: 
+********************************************************************
+Error Line ::>>>7
+(7/24/2017 10:54:41 PM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: 
+********************************************************************
+Error Line ::>>>7
+(7/25/2017 1:52:51 PM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: By control id
+********************************************************************
+Error Line ::>>>7
+(7/25/2017 1:55:54 PM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: 
+********************************************************************
+Error Line ::>>>7
+(7/25/2017 1:59:04 PM) Error Descrption ::>>>>Unable to find 'signIn (Command Button)' object in the webpage.
+
+Failed search criterion: 
+********************************************************************
+Error Line ::>>>7

@@ -1,0 +1,6 @@
+1	Start Loop "List Variable $listedtype$" 
+2	Comment: Please enter your commands to loop.
+3	Message Box: "$listedtype$"
+4	End Loop
+5	String Operation: Join elements of "$listedtype$" by delimiter ",," and assign output to $Prompt-Assignment$
+6	Message Box: "$Prompt-Assignment$"
